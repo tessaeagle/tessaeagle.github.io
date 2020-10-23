@@ -8,7 +8,6 @@ A simple and modern portfolio template that is lightweight, mobile responsive an
 - [Installation](#installation)
 
 ### Demo
-[abhn.io](https://abhn.io)
 
 ### Screenshots
 ![homepage](tmp/screenshot.jpg?raw=true "Homepage")
