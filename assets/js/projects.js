@@ -38,15 +38,6 @@ let render_projects = (slug) => {
             categories: ['featured', 'papers']
         },
         {
-            image: 'assets/images/APA_Poster.png',
-            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/APA_Poster.png',
-            title: 'APA Poster',
-            demo: 'false',
-            technologies: [],
-            description: "Interoception Poster Presented at APA",
-            categories: ['featured', 'posters']
-        },
-        {
             image: 'assets/images/BU_Poster.png',
             link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/BU_Poster.png',
             title: 'BUCLD Poster',
@@ -81,6 +72,15 @@ let render_projects = (slug) => {
             technologies: ['Tracery'],
             description: "Twitterbot created for bite-sized hourly workouts",
             categories: ['research', 'featured']
+        },
+         {
+            image: 'assets/images/APA_Poster.png',
+            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/APA_Poster.png',
+            title: 'APA Poster',
+            demo: 'false',
+            technologies: [],
+            description: "Interoception Poster Presented at APA",
+            categories: ['featured', 'posters']
         },
     ]
 
