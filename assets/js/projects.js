@@ -92,60 +92,6 @@ let render_projects = (slug) => {
             categories: ['research', 'featured']
         },
         {
-            image: 'assets/images/soot-spirits.png',
-            link: 'https://github.com/abhn/Soot-Spirits',
-            title: 'Soot Spirits',
-            demo: 'https://sootspirits.github.io',
-            technologies: ['Jekyll', 'CSS3'],
-            description: "A simple responsive two column Jekyll theme. Great for personal blog and basic portfolio website.",
-            categories: ['webdev']
-        },
-        {
-            image: 'assets/images/python-chat.png',
-            link: 'https://www.nagekar.com/2014/12/lan-group-messenger-in-python.html',
-            title: 'Terminal Group Chat',
-            demo: false,
-            technologies: ['Python', 'Sockets'],
-            description: "Simple terminal group chat based on native sockets using Python.",
-            categories: ['native']
-        },
-        {
-            image: 'assets/images/old-lcd.jpg',
-            link: 'https://www.nagekar.com/2018/05/reusing-old-laptop-lcd-panel.html',
-            title: 'Reusing Old LCD Panel',
-            demo: false,
-            technologies: ['DIY'],
-            description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
-            categories: ['diy']
-        },
-        {
-            image: 'assets/images/nextcloud-enc.png',
-            link: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Encrypted Self-Hosted Cloud',
-            demo: false,
-            technologies: ['NextCloud', 'GnuPG'],
-            description: "Self hosted encrypted cloud setup with Nextcloud and GnuPG.",
-            categories: ['diy', 'security']
-        },
-        {
-            image: 'assets/images/google-cloud-backup.png',
-            link: 'https://www.nagekar.com/2018/05/encrypted-backup-with-duplicity.html',
-            title: 'Encrypted Backups - Google Cloud',
-            demo: false,
-            technologies: ['NextCloud', 'Duplicity'],
-            description: "Create automated encrypted incremental backups of data. Sync everything securely to Google Cloud.",
-            categories: ['diy', 'security']
-        },
-        {
-            image: 'assets/images/pi-cloud.jpg',
-            link: 'https://www.nagekar.com/2016/01/how-to-private-local-cloud-using-raspberrypi.html',
-            title: 'Local Cloud - Raspberry Pi',
-            demo: false,
-            technologies: ['FTP', 'DIY'],
-            description: "Host a local cloud server with a Raspberry Pi and a spare hard disk. Access data instantaneously on any device on the network.",
-            categories: ['diy']
-        },
-        {
             image: 'assets/images/koalamate.png',
             link: 'https://github.com/abhn/koalamate',
             title: 'Koalamate',
