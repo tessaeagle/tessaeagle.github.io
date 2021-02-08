@@ -20,40 +20,40 @@ let render_projects = (slug) => {
             categories: ['featured', 'research']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['featured', 'webdev']
+            image: 'assets/images/8_18.png',
+            link: 'https://github.com/tessaeagle/TidyTuesday',
+            title: 'R4DS Tidy Tuesday',
+            demo: 'https://github.com/tessaeagle/TidyTuesday',
+            technologies: ['R', 'ggplot'],
+            description: "Data Visualization Experiments with R",
+            categories: ['featured', 'r']
         },
         {
-            image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
+            image: 'assets/images/paper.png',
+            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/paper.png',
+            title: 'MSARD Paper',
             demo: false,
             technologies: ['Android', 'OpenCV'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['featured', 'native']
+            description: "Treatment Satisfaction in Patients with Multiple Sclerosis",
+            categories: ['featured', 'papers']
         },
         {
-            image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
+            image: 'assets/images/APA_poster.png',
+            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/APA_Poster.png',
+            title: 'APA Poster',
+            demo: 'false',
             technologies: ['Semantic UI', 'CSS3'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-            categories: ['featured', 'security']
+            description: "Interoception Poster Presented at APA",
+            categories: ['featured', 'posters']
         },
         {
-            image: 'assets/images/social-share-count.jpeg',
-            link: 'https://github.com/abhn/Social-Share-Counts',
-            title: 'Social Share Count',
+            image: 'assets/images/BU_Poster.png',
+            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/BU_Poster.png',
+            title: 'BUCLD Poster',
             demo: false,
             technologies: ['Python'],
-            description: "Ever wondered how many times a URL has been shared on popular social networks?",
-            categories: ['native']
+            description: "BUCLD 2016 Poster on Undergrad Honors Thesis",
+            categories: ['posters']
         },
         {
             image: 'assets/images/data-destroyer.png',
@@ -62,34 +62,34 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['C++', 'Qt'],
             description: "Native GUI wrapper for GNU coreutils tool 'dd'",
-            categories: ['native']
+            categories: ['posters']
         },
         {
-            image: 'assets/images/raspberry-pi-monitor.png',
-            link: 'https://github.com/abhn/RPi-Status-Monitor',
-            title: 'Raspberry Pi Monitor',
+            image: 'assets/images/poster.png',
+            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/poster.png',
+            title: 'Undergraduate Honors Thesis',
             demo: false,
             technologies: ['python', 'flask'],
-            description: "Web based status monitor/smart mirror, displays system stats, weather and more.",
-            categories: ['webdev', 'diy']
+            description: "Honors thesis presented at the UR Undergraduate Research Expo",
+            categories: ['posters']
         },
         {
-            image: 'assets/images/s3scan.png',
-            link: 'https://github.com/abhn/S3Scan',
-            title: 'S3Scan',
+            image: 'assets/images/TwitterPage.png',
+            link: 'https://twitter.com/Magikarmen',
+            title: 'GPT-2 Twitterbot',
             demo: false,
-            technologies: ['python'],
-            description: "Automate crawling of a website and find publicly open S3 buckets for takeover.",
-            categories: ['native', 'security']
+            technologies: ['Tracery'],
+            description: "Twitterbot created with Tracery to tweet game-based tweets and GPT-2 generated tweets",
+            categories: ['research']
         },
         {
-            image: 'assets/images/elementary.png',
-            link: 'https://github.com/abhn/Elementary',
-            title: 'Elementary',
-            demo: 'https://elementary-jekyll.github.io/',
-            technologies: ['Jekyll', 'CSS3'],
-            description: "Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity.",
-            categories: ['webdev']
+            image: 'assets/images/tinyworkout.png',
+            link: 'https://twitter.com/tinyworkoutbot',
+            title: 'Workout Twitterbot',
+            demo: 'false',
+            technologies: ['Tracery'],
+            description: "Twitterbot created for bite-sized hourly workouts",
+            categories: ['research']
         },
         {
             image: 'assets/images/soot-spirits.png',
