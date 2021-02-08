@@ -38,24 +38,6 @@ let render_projects = (slug) => {
             categories: ['featured', 'papers']
         },
         {
-            image: 'assets/images/BU_Poster.png',
-            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/BU_Poster.png',
-            title: 'BUCLD Poster',
-            demo: false,
-            technologies: [],
-            description: "BUCLD 2016 Poster on Undergrad Honors Thesis",
-            categories: ['posters']
-        },
-        {
-            image: 'assets/images/poster.png',
-            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/poster.png',
-            title: 'Undergraduate Honors Thesis',
-            demo: false,
-            technologies: [],
-            description: "Honors thesis presented at the UR Undergraduate Research Expo",
-            categories: ['posters']
-        },
-        {
             image: 'assets/images/TwitterPage.png',
             link: 'https://twitter.com/Magikarmen',
             title: 'GPT-2 Twitterbot',
@@ -73,6 +55,24 @@ let render_projects = (slug) => {
             description: "Twitterbot created for bite-sized hourly workouts",
             categories: ['research', 'featured']
         },
+        {
+            image: 'assets/images/BU_Poster.png',
+            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/BU_Poster.png',
+            title: 'BUCLD Poster',
+            demo: false,
+            technologies: [],
+            description: "BUCLD 2016 Poster on Undergrad Honors Thesis",
+            categories: ['posters']
+        },
+        {
+            image: 'assets/images/poster.png',
+            link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/poster.png',
+            title: 'Undergraduate Honors Thesis',
+            demo: false,
+            technologies: [],
+            description: "Honors thesis presented at the UR Undergraduate Research Expo",
+            categories: ['posters']
+        },       
          {
             image: 'assets/images/APA_Poster.png',
             link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/APA_Poster.png',
