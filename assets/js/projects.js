@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/paper.png',
             title: 'MSARD Paper',
             demo: false,
-            technologies: ['Android', 'OpenCV'],
+            technologies: [],
             description: "Treatment Satisfaction in Patients with Multiple Sclerosis",
             categories: ['featured', 'papers']
         },
@@ -42,7 +42,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/APA_Poster.png',
             title: 'APA Poster',
             demo: 'false',
-            technologies: ['Semantic UI', 'CSS3'],
+            technologies: [],
             description: "Interoception Poster Presented at APA",
             categories: ['featured', 'posters']
         },
@@ -51,7 +51,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/BU_Poster.png',
             title: 'BUCLD Poster',
             demo: false,
-            technologies: ['Python'],
+            technologies: [],
             description: "BUCLD 2016 Poster on Undergrad Honors Thesis",
             categories: ['posters']
         },
@@ -60,7 +60,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/tessaeagle/tessaeagle.github.io/blob/master/assets/images/poster.png',
             title: 'Undergraduate Honors Thesis',
             demo: false,
-            technologies: ['python', 'flask'],
+            technologies: [],
             description: "Honors thesis presented at the UR Undergraduate Research Expo",
             categories: ['posters']
         },
