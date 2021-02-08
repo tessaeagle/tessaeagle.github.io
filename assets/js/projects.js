@@ -89,7 +89,7 @@ let render_projects = (slug) => {
             demo: 'false',
             technologies: ['Tracery'],
             description: "Twitterbot created for bite-sized hourly workouts",
-            categories: ['research']
+            categories: ['research', 'featured']
         },
         {
             image: 'assets/images/soot-spirits.png',
